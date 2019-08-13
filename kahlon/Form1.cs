@@ -28,7 +28,7 @@ namespace kahlon
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            lbloutput.Text = "Hello world!!!"
+            lblOp.Text = "Hello world!!!";
 }
 
         private void TextBox1_TextChanged(object sender, EventArgs e)
